@@ -17,27 +17,20 @@ This tool helps students master algorithms.
 ~~~
 
 ### To run the tests
-To run all uncommented prompts in the manifest, run the command:
+To run all uncommented prompts, run the command:
 
 `npm test`
 
-To run a single directory, for instance **arrays**:
-
-`npm test problems/arrays`
-
-To run a test on a single test, for instance **arrays/some**:
-
-`npm test problems/arrays/tests/some.test.js`
-
 ### Updates
-algopractice, and the Hacktivator program in general, are being constantly iterated on, with new content being added all of the time. In order to stay up to date on the latest prompts, be sure to add the Hack Reactor repo as the `remote upstream`. 
+In order to stay updated add this repo as the `remote upstream`. 
 
 
 ### Bug reporting
-Since algopractice is being constantly worked on, it is extremely possible that some bugs will slip through. Please report these using GitHub Issues. You can access the issues for algopractice via its repo page, at the top next to the "Pull Requests" tab. Please make sure to add the `Bug` label to your issue and a staff member will look into it.
-
-We appreciate your help with this, and reported bugs help your fellow students!
+ - Report bugs using GitHub Issues. 
+ - Access the issues for algopractice via its repo page, at the top next to the "Pull Requests" tab. 
+ - Make sure to add the `Bug` label to your issue.
 
 ### Contributions
 
-If you believe something is missing from this repo, please make a GitHub Issue with the `Enhancement` label on it. Please clearly explain the building block that this improvement would address, and we will look at it. 
+ - To contribute make a GitHub Issue with the `Enhancement` label on it. 
+ - Clearly explain your contribution
