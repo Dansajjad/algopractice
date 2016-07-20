@@ -1,5 +1,5 @@
 # algopractice
-This tool helps students master algoritms.
+This tool helps students master algorithms.
 
 ## For students
 ### Usage
@@ -39,6 +39,5 @@ Since algopractice is being constantly worked on, it is extremely possible that 
 We appreciate your help with this, and reported bugs help your fellow students!
 
 ### Contributions
-algopractice is designed to test and promote **building blocks**. A building block is not a toy problem per se, although problems can certainly teach a building block. Rather, a building block should enforce a skill that frees you to improve on your logic. 
 
 If you believe something is missing from this repo, please make a GitHub Issue with the `Enhancement` label on it. Please clearly explain the building block that this improvement would address, and we will look at it. 
