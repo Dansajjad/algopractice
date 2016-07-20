@@ -1,7 +1,7 @@
 # algopractice
-This tool helps students master algorithms.
+Practice algorithms.
 
-## For students
+## For users
 ### Usage
 
 1. Fork and clone down Dansajjad/algopractice
